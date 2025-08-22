@@ -7,6 +7,6 @@ import App from "./App";
 const root = createRoot(document.getElementById("root"));
 root.render(
   <StrictMode>
-    <App size={10}/>
+    <App size={3}/>
   </StrictMode>
 );
